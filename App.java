@@ -6,3 +6,4 @@ class CharRead
   char c = (char)br.read();       //Reading character 
  }
 }
+// new line
